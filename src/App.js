@@ -1,8 +1,8 @@
 import './App.css';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Main from './Components/mainScreen/Main';
-import ForgotPassword from './Components/Login/ForgotPassword';
 import Login from './Components/Login/Login';
+import ForgotPassword from './Components/Login/ForgotPassword';
 import Login from './Components/Login/Login';
 
 function App() {
